@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+#ex1{
+    background-color: rgb(141, 45, 231);
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 75px;
+    color: bisque;
+}
+
+
+
+#ex2{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#html{
+    color: rgb(102, 166, 209);
+    background-color: rgb(148, 84, 231);
+    padding: 100px;
+    height: 100vh;
+    width: 50vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#css{
+    color: rgb(201, 148, 170);
+    background-color: rgb(214, 64, 64);
+    padding: 100px;
+    height: 100vh;
+    width: 50vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+h2{
+    font-size: 50px;
+    
+}
+
+/*******************************/
+
+#ex4{
+    display: flex;
+    height: 100vh;
+    
+}
+
+#HTML, #CSS{
+width: 50vw;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 80px;
+}
+
+#HTML{
+    background-color: rgb(160, 152, 230);
+    color: rgb(1, 25, 236);
+}
+
+#CSS{
+    background-color: rgb(157, 240, 194);
+    color: rgb(2, 139, 55);
+}
+
+nav{
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(159, 204, 224);
+    color: aliceblue;
+    padding: 5px;
+}
+
+img{
+  
+    width: 56px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+ul{
+    display: flex;
+
+}
+
+li{
+    list-style: none;
+    padding-right: 10px;
+}
